@@ -2,5 +2,5 @@
 First Repository
  Hello there!
  
- Great toplay with Github, alway interesting to learn new things
+ Great to play with Github, alway interesting to learn new things
  
